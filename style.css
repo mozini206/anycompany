@@ -1,0 +1,231 @@
+/* styles for the header */
+header {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+header .navbar {
+    justify-content: space-between;
+}
+
+header .navbar .navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/* styles for the new arrivals section */
+#new-arrivals {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#new-arrivals h2 {
+    text-align: center;
+}
+
+#new-arrivals .img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+#new-arrivals h3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#new-arrivals p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#new-arrivals a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* styles for the top selling section */
+#top-selling {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#top-selling h2 {
+    text-align: center;
+}
+
+#top-selling .img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+#top-selling h3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#top-selling p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#top-selling a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* styles for the on sale section */
+#on-sale {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#on-sale h2 {
+    text-align: center;
+}
+
+#on-sale .img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+#on-sale h3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#on-sale p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#on-sale a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* styles for the contact section */
+#contact {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#contact h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#contact form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#contact form label {
+    font-weight: bold;
+}
+
+#contact form .form-control {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#contact form button {
+    border-radius: 10px;
+    width: 100%;
+}
+
+
+#newsletter {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#newsletter h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#newsletter form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#newsletter form label {
+    font-weight: bold;
+}
+
+#newsletter form .form-control {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#newsletter form button {
+    border-radius: 10px;
+    width: 100%;
+}
+
+
+#reviews {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#reviews h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#reviews .review {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#reviews .review h3 {
+    margin-top: 0;
+}
+
+#reviews .review h4 {
+    margin-top: 10px;
+}
+
+#reviews .review .rating {
+    font-size: 20px;
+    color: #ffc107;
+    margin-bottom: 10px;
+}
+
+#reviews img {
+    width: 100px;
+    height: 100px;
+}
+
+#main-footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+}
+
+#main-footer a {
+    color: #fff;
+}
+
+#main-footer h4 {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+
+
+
+
+
